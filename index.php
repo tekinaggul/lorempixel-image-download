@@ -9,7 +9,7 @@
 <div id="post"></div>
 <script type="text/javascript">
 	var cat = ["abstract","animals","business","cats","city","food","nightlife","fashion","people","nature","sports","technics","transport"];
-	var size = [["600","600"],["400","400"],["400","200"]]
+	var size = [["600","600"],["400","400"],["400","200"],["1920","1920"],["1200","1200"],["1200","600"],["1200","800"],["1920","1080"],["1600","900"],["1280","720"],["1024","768"]]
 	$("#gonder").click(function(event) {
 		for (var k = size.length - 1; k >= 0; k--) {
 			for (var j = cat.length - 1; j >= 0; j--) {
